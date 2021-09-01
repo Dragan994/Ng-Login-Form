@@ -1,0 +1,17 @@
+label{
+    width: 150px;
+}
+h1 {
+    text-align: center;
+}
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+.wrapper-center {
+    display:inline-block;
+}
+.wrapper-left {
+    display: flex;
+    justify-content: end;
+}
